@@ -1,1 +1,7 @@
+# lines that start with the pound symbol are commented out
+
+
+
 *.log
+# adding the * means anything, its known as a wildcard
+# so the above line says ignore anything that ends in .log
